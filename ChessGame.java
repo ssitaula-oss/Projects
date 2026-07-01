@@ -1,8 +1,9 @@
+import javax.swing.*;
+import javax.swing.border.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 import java.util.List;
-import javax.swing.*;
 
 public class ChessGame extends JFrame {
     // ── Colors ────────────────────────────────────────────────────────────────
